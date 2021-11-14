@@ -1,6 +1,13 @@
 # mimrp
 
-The minimalistic radio player
+The minimalistic software radio player
+
+A radio player that requires few dependencies.
+
+Just run the player 
+```
+./player
+```
 
 # dependencies
 
