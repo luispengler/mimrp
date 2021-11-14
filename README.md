@@ -1,3 +1,7 @@
 # mimsc
 
-The minimalistic music player
+The minimalistic radio player
+
+# dependencies
+
+MPV - It will be your music player
