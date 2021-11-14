@@ -1,4 +1,4 @@
-# mimsc
+# mimrp
 
 The minimalistic radio player
 
